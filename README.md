@@ -1,2 +1,2 @@
 # Encryption-Decryption-Tool
-Employs AES, RSA, and DES cryptographic algorithms to encrypt and decrypt data
+Employs DES, AES, RSA, and ECC encryption standards to encrypt and decrypt data
